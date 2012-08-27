@@ -3,3 +3,8 @@ c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullContr
 c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\obj\Release\FullControlChanger.csprojResolveAssemblyReference.cache
 c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\obj\Release\FullControlChanger.exe
 c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\obj\Release\FullControlChanger.pdb
+D:\Work\Programming\Visual Studio\Complete\FullControlChanger\FullControlChanger\bin\Release\FullControlChanger.exe
+D:\Work\Programming\Visual Studio\Complete\FullControlChanger\FullControlChanger\bin\Release\FullControlChanger.pdb
+D:\Work\Programming\Visual Studio\Complete\FullControlChanger\FullControlChanger\obj\Release\FullControlChanger.csprojResolveAssemblyReference.cache
+D:\Work\Programming\Visual Studio\Complete\FullControlChanger\FullControlChanger\obj\Release\FullControlChanger.exe
+D:\Work\Programming\Visual Studio\Complete\FullControlChanger\FullControlChanger\obj\Release\FullControlChanger.pdb

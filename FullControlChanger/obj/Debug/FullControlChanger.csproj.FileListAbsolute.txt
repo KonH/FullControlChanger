@@ -2,3 +2,5 @@ c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullContr
 c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\bin\Debug\FullControlChanger.pdb
 c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\obj\Debug\FullControlChanger.exe
 c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\obj\Debug\FullControlChanger.pdb
+D:\Work\Programming\Visual Studio\Complete\FullControlChanger\FullControlChanger\obj\Debug\FullControlChanger.exe
+D:\Work\Programming\Visual Studio\Complete\FullControlChanger\FullControlChanger\obj\Debug\FullControlChanger.pdb
