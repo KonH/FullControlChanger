@@ -1,0 +1,4 @@
+c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\bin\Debug\FullControlChanger.exe
+c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\bin\Debug\FullControlChanger.pdb
+c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\obj\Debug\FullControlChanger.exe
+c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\obj\Debug\FullControlChanger.pdb

@@ -1,0 +1,5 @@
+c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\bin\Release\FullControlChanger.exe
+c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\bin\Release\FullControlChanger.pdb
+c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\obj\Release\FullControlChanger.csprojResolveAssemblyReference.cache
+c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\obj\Release\FullControlChanger.exe
+c:\users\konh\documents\visual studio 2012\Projects\FullControlChanger\FullControlChanger\obj\Release\FullControlChanger.pdb
